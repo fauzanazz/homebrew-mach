@@ -1,6 +1,6 @@
 cask "mach" do
-  version "0.1.0"
-  sha256 "6f3743f505c930ecd08963d95f6a0228e7a0646c4c603a0d23129af5461c8c67"
+  version "0.1.1"
+  sha256 "ea71fc421d9d3169322d75e2deed303c8cb7d70b1094dafacbbc36724433c21c"
 
   url "https://github.com/fauzanazz/mach/releases/download/v#{version}/mach.zip"
   name "mach"
